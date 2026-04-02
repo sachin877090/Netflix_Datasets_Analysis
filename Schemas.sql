@@ -1,4 +1,4 @@
-
+-- SCHEMAS of Netflix
 
 
 CREATE TABLE netflix
